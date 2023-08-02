@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: Garamond, serif;
+    background-color: #C7C7C7;
+    text-align: center;
+  color:#912727;
+  font-size:25px;
+}
+
+img {
+    width: 400px;
+  border-radius: 10px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.sleeping{
+  display:none;
+}
+
+.energetic{
+  display:none;
+}
+
+.yawning{
+  display:none;
+}
+
+.serious{
+  display:none;
+}
